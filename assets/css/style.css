@@ -1,6 +1,15 @@
 body {
-    background-color: tomato;
+    font-family:  Helvetica, Arial, sans-serif;
+ color: #39a6b2
 }
-h1 {
-    font-size: 90px;
+
+header h1 {
+   font-weight: bold;
+   font-size: 36px;
+   color: #fce138;
+   margin: 0;
+} 
+
+header a {
+    color: #fce138;
 }
